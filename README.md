@@ -1,13 +1,9 @@
-<!-- ===================== -->
-<!--  GitHub Profile README -->
-<!-- ===================== -->
-
 <h1 align="center">
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm Arseniy
 </h1>
 
 <p align="center">
-  <a href="<<<PORTFOLIO_LINK>>>">My 3D art</a> •
+  <a href="https://disk.yandex.ru/d/mcsGqgr16-oqBQ">My 3D art</a> •
   <a href="https://t.me/elkrab">Telegram</a>
 </p>
 
