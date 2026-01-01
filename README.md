@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- ===================== -->
+<!--  GitHub Profile README -->
+<!-- ===================== -->
 
-<!--
-**tainiikrab/tainiikrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm Arseniy
+</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="<<<PORTFOLIO_LINK>>>">My 3D art</a> •
+  <a href="https://t.me/elkrab">Telegram</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">
+  🎮 C# Unity Developer | 🖌️ 3D and design for fun
+</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,blender,figma,cs" />
+  </a>
+</p>
+
+
+<!-- <p align="center">
+  <i>
+    Всем привет
+  </i>
+</p> -->
+
