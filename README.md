@@ -4,7 +4,8 @@
 
 <p align="center">
   <a href="https://disk.yandex.ru/d/mcsGqgr16-oqBQ">My 3D art</a> •
-  <a href="https://t.me/elkrab">Telegram</a>
+  <a href="https://t.me/elkrab">t.me/elkrab</a> •
+  <a href="mailto:work@tainiykrab.ru">work@tainiykrab.ru</a>
 </p>
 
 <h3 align="center">
